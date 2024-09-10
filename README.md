@@ -62,7 +62,7 @@ This project is a web-based dashboard that displays various types of charts usin
 
 6. Start the Django server:
    ```
-   python manage.py runserver 8080
+   python manage.py runserver 8888
    ```
 
 ### Frontend (Next.js):
